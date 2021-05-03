@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wisdom Super Hero App</string>
+    <string name="prompt_text">Select a Hero</string>
+    <string name="submit_button" >Get Heroes</string>
+    <string name="background_description">Image</string>
+
+    <string-array name="superheros">
+        <item>Batman</item>
+        <item>Man-Wolf</item>
+        <item>Ardina</item>
+        <item>Robin III</item>
+        <item>Stephanie Powell</item>
+        <item>Captain Marvel II</item>
+        <item>Deathlok</item>
+        <item>The Cape</item>
+        <item>Spider-Gwen</item>
+        <item>Doctor Strange</item>
+        <item>Simon Baz</item>
+        <item>Monica Dawson</item>
+    </string-array>
+
+</resources>
